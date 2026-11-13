@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mohan0403/leetcode-solutions/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/Mohan0403/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohan0403/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mohan0403/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Mohan0403/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Hash Table
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mohan0403/leetcode-solutions/tree/master/0207-course-schedule) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohan0403/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
