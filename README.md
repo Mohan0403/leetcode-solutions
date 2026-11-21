@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mohan0403/leetcode-solutions/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/Mohan0403/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Mohan0403/leetcode-solutions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan0403/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mohan0403/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Mohan0403/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohan0403/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Mohan0403/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan0403/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohan0403/leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohan0403/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohan0403/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohan0403/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
