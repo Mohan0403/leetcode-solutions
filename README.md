@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohan0403/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mohan0403/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohan0403/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Mohan0403/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1020-number-of-enclaves](https://github.com/Mohan0403/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Hash Table
 |  |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohan0403/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Mohan0403/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
